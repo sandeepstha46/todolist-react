@@ -1,0 +1,22 @@
+form {
+    display: inline-block;
+}
+
+.form-css{
+    text-align: center;
+    margin: 20px 0px;
+}
+
+input{
+    padding: 10px;
+}
+
+#button{
+    margin: 0px 10px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: dodgerblue;
+    border: none;
+    color: #ffffff;
+}
+
